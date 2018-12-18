@@ -26,3 +26,10 @@ table {
 #dot {
     list-style: circle;
 }
+.border {
+    border-style: double;
+    border-width: .3em;
+    border-radius: 25px;
+    padding: 20px;
+    width: 90%;
+}
