@@ -4,3 +4,19 @@
 h2 {
     color: red;
 }
+table {
+    width: 90%;
+    border: 4px solid lightgray;
+    text-align: center;
+    margin-left: 5%;
+    font-size: 135%
+}
+.left {
+    text-align: left;
+}
+.right {
+    text-align: right;
+}
+.shadow {
+    background-color: lightgray;
+}
