@@ -20,3 +20,9 @@ table {
 .shadow {
     background-color: lightgray;
 }
+#square {
+    list-style: square;
+}
+#dot {
+    list-style: circle;
+}
